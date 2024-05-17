@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyiko-Github
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and java script
+- 👀 I’m interested in software development and web development
+- 🌱 I’m currently learning java, html, css and java script
 - 💞️ I’m looking to collaborate on web development projects solving real-life problems 
 - 📫 Let's connect on LinkedIn - Nyiko Roberto Maswanganyi
 
